@@ -22,7 +22,7 @@ May the bug be with you. 🦠🦠
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasettakorn&show_icons=true&theme=dracula" alt="kasettakorn's GitHub Stats" />
 
 ## Contact me
-![](https://img.shields.io/badge/Ronnakorn_Hompoa-Facebook-informational?style=flat&logo=facebook&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
 </span>
