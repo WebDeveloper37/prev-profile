@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem820&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artem820&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry-mishachenko&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-mishachenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 # Welcome to my GitHub 👋
@@ -21,10 +21,3 @@ May the bug be with you. 🦠🦠
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasettakorn&show_icons=true&theme=dracula" alt="kasettakorn's GitHub Stats" />
 
-## Contact me
-![](https://img.shields.io/badge/Facebook-informational?style=flat&logo=facebook&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=2bbc8a)
-</span>
-<!--
-**kasettakorn/kasettakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
