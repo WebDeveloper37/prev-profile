@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry-mishachenko&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-mishachenko&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-
-
 # Welcome to my GitHub 👋
 May the bug be with you. 🦠🦠
 ## 🔧 Technologies & Tools
